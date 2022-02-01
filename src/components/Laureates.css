@@ -1,0 +1,6 @@
+.laureates{
+    display: flex;
+    flex-direction: row;
+    border-radius: 5px;
+    font-weight: 500;
+}

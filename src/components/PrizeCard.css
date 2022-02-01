@@ -1,0 +1,9 @@
+.prizeContainer{
+    flex: 1;
+    align-self: stretch;
+    
+}
+.card{
+    height: 100%;
+    justify-content: space-evenly;
+}
